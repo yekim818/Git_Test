@@ -1,0 +1,31 @@
+LOCAL TITLE: SCI GENERAL NOTE2
+DATE OF NOTE: MAY 7,2013@13:47       ENTRY DATE: MAY 7,2013@13:47:22
+AUTHOR: MUNDI,LYNNE          EXP COSIGNER:
+URGENCY:                            STATUS: COMPLETED
+CONTRACEPTION-BRIEF:
+FP METHOD: None Recorded
+CONTRACEPTION-EXPANDED:
+FP METHOD: None Recorded
+ESTIMATED DUE DATE:
+Patient is not currently pregnant
+LMP-BRIEF:
+LMP: JAN 1,2013
+LMP-EXPANDED:
+LMP: JAN 1,2013 (recorded on MAY 7,2013)
+PREGNANCY DUE DATE:
+Patient is not currently pregnant
+REPRODUCTIVE HX-BRIEF:
+Gravida: 0
+Full Term: 0
+Premature Births: 0
+Theraputic Abortions: 0
+Spontaneous Abortions: 0
+Ectopics: 0
+Living Children: 0
+Multiple Births: 0
+Lactation Status: UNKNOWN
+REPRODUCTIVE HS-EXPANDED:
+Gravida: 0 (MAY 7,2013)
+Full Term: 0 (MAY 7,2013)
+Premature Births: 0 (MAY 7,2013)
+Theraputic Abortions: 0 (MAY 7,2013)
